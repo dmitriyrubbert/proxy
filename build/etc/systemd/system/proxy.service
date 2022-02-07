@@ -1,0 +1,11 @@
+[Unit]
+Description=Example proxy Server
+After=multi-user.target
+
+[Service]
+Type=forking
+ExecStart=/opt/proxy/start
+ExecStop=/opt/proxy/stop
+
+[Install]
+WantedBy=multi-user.target

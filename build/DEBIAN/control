@@ -1,0 +1,9 @@
+Package: proxy
+Version:1.000
+Priority: optional
+Architecture: amd64
+Section: utils
+Essential: no
+Maintainer: Dmitriy Lazarev <dmitriy.rubbert@gmail.com>
+Depends: nmap
+Description: Example proxy Server

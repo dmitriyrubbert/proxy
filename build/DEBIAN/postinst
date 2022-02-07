@@ -1,0 +1,11 @@
+#!/bin/bash
+
+cd /opt/proxy/
+if [ -f "proxy.tar" ]; then
+	tar -xf proxy.tar
+	rm -f proxy.tar &> /dev/null
+fi
+
+systemctl daemon-reload
+systemctl enable ups
+/opt/ups/autodiscovery

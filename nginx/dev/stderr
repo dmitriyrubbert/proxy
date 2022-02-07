@@ -1,0 +1,463 @@
+2021/12/13 09:41:35 [notice] 91605#91605: using the "epoll" event method
+2021/12/13 09:41:35 [notice] 91605#91605: nginx/1.21.4
+2021/12/13 09:41:35 [notice] 91605#91605: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:35 [notice] 91605#91605: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:35 [notice] 91605#91605: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:35 [notice] 91606#91606: start worker processes
+2021/12/13 09:41:35 [notice] 91606#91606: start worker process 91608
+2021/12/13 09:41:35 [notice] 91606#91606: start worker process 91609
+2021/12/13 09:41:36 [notice] 91640#91640: using the "epoll" event method
+2021/12/13 09:41:36 [notice] 91640#91640: nginx/1.21.4
+2021/12/13 09:41:36 [notice] 91640#91640: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:36 [notice] 91640#91640: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:36 [notice] 91640#91640: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:36 [notice] 91641#91641: start worker processes
+2021/12/13 09:41:36 [notice] 91641#91641: start worker process 91643
+2021/12/13 09:41:36 [notice] 91641#91641: start worker process 91644
+2021/12/13 09:41:37 [notice] 91670#91670: using the "epoll" event method
+2021/12/13 09:41:37 [notice] 91670#91670: nginx/1.21.4
+2021/12/13 09:41:37 [notice] 91670#91670: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:37 [notice] 91670#91670: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:37 [notice] 91670#91670: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:37 [notice] 91671#91671: start worker processes
+2021/12/13 09:41:37 [notice] 91671#91671: start worker process 91673
+2021/12/13 09:41:37 [notice] 91671#91671: start worker process 91674
+2021/12/13 09:41:38 [notice] 91700#91700: using the "epoll" event method
+2021/12/13 09:41:38 [notice] 91700#91700: nginx/1.21.4
+2021/12/13 09:41:38 [notice] 91700#91700: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:38 [notice] 91700#91700: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:38 [notice] 91700#91700: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:38 [notice] 91701#91701: start worker processes
+2021/12/13 09:41:38 [notice] 91701#91701: start worker process 91703
+2021/12/13 09:41:38 [notice] 91701#91701: start worker process 91704
+2021/12/13 09:41:40 [notice] 91735#91735: using the "epoll" event method
+2021/12/13 09:41:40 [notice] 91735#91735: nginx/1.21.4
+2021/12/13 09:41:40 [notice] 91735#91735: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:40 [notice] 91735#91735: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:40 [notice] 91735#91735: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:40 [notice] 91736#91736: start worker processes
+2021/12/13 09:41:40 [notice] 91736#91736: start worker process 91738
+2021/12/13 09:41:40 [notice] 91736#91736: start worker process 91739
+2021/12/13 09:41:41 [notice] 91765#91765: using the "epoll" event method
+2021/12/13 09:41:41 [notice] 91765#91765: nginx/1.21.4
+2021/12/13 09:41:41 [notice] 91765#91765: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:41 [notice] 91765#91765: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:41 [notice] 91765#91765: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:41 [notice] 91766#91766: start worker processes
+2021/12/13 09:41:41 [notice] 91766#91766: start worker process 91768
+2021/12/13 09:41:41 [notice] 91766#91766: start worker process 91769
+2021/12/13 09:41:42 [emerg] 91795#91795: open() "/etc/nginx/mime.types" failed (2: No such file or directory) in /etc/nginx/nginx.conf:15
+2021/12/13 09:41:45 [emerg] 91840#91840: open() "/etc/nginx/nginx.conf" failed (2: No such file or directory)
+2021/12/13 09:41:48 [notice] 91885#91885: using the "epoll" event method
+2021/12/13 09:41:48 [notice] 91885#91885: nginx/1.21.4
+2021/12/13 09:41:48 [notice] 91885#91885: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:48 [notice] 91885#91885: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:48 [notice] 91885#91885: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:48 [notice] 91886#91886: start worker processes
+2021/12/13 09:41:48 [notice] 91886#91886: start worker process 91888
+2021/12/13 09:41:48 [notice] 91886#91886: start worker process 91889
+2021/12/13 09:41:49 [notice] 91920#91920: using the "epoll" event method
+2021/12/13 09:41:49 [notice] 91920#91920: nginx/1.21.4
+2021/12/13 09:41:49 [notice] 91920#91920: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:49 [notice] 91920#91920: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:49 [notice] 91920#91920: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:49 [notice] 91921#91921: start worker processes
+2021/12/13 09:41:49 [notice] 91921#91921: start worker process 91923
+2021/12/13 09:41:49 [notice] 91921#91921: start worker process 91924
+2021/12/13 09:41:50 [notice] 91950#91950: using the "epoll" event method
+2021/12/13 09:41:50 [notice] 91950#91950: nginx/1.21.4
+2021/12/13 09:41:50 [notice] 91950#91950: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:50 [notice] 91950#91950: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:50 [notice] 91950#91950: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:50 [notice] 91951#91951: start worker processes
+2021/12/13 09:41:50 [notice] 91951#91951: start worker process 91953
+2021/12/13 09:41:50 [notice] 91951#91951: start worker process 91954
+2021/12/13 09:41:52 [notice] 91985#91985: using the "epoll" event method
+2021/12/13 09:41:52 [notice] 91985#91985: nginx/1.21.4
+2021/12/13 09:41:52 [notice] 91985#91985: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:52 [notice] 91985#91985: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:52 [notice] 91985#91985: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:52 [notice] 91986#91986: start worker processes
+2021/12/13 09:41:52 [notice] 91986#91986: start worker process 91988
+2021/12/13 09:41:52 [notice] 91986#91986: start worker process 91989
+2021/12/13 09:41:53 [emerg] 92020#92020: getgrnam("nginx") failed (2: No such file or directory) in /etc/nginx/nginx.conf:2
+2021/12/13 09:41:56 [notice] 92065#92065: using the "epoll" event method
+2021/12/13 09:41:56 [notice] 92065#92065: nginx/1.21.4
+2021/12/13 09:41:56 [notice] 92065#92065: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:41:56 [notice] 92065#92065: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:41:56 [notice] 92065#92065: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:41:56 [notice] 92066#92066: start worker processes
+2021/12/13 09:41:56 [notice] 92066#92066: start worker process 92068
+2021/12/13 09:41:56 [notice] 92066#92066: start worker process 92069
+2021/12/13 09:42:00 [notice] 92142#92142: using the "epoll" event method
+2021/12/13 09:42:00 [notice] 92142#92142: nginx/1.21.4
+2021/12/13 09:42:00 [notice] 92142#92142: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:00 [notice] 92142#92142: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:00 [notice] 92142#92142: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:00 [notice] 92143#92143: start worker processes
+2021/12/13 09:42:00 [notice] 92143#92143: start worker process 92145
+2021/12/13 09:42:00 [notice] 92143#92143: start worker process 92146
+2021/12/13 09:42:01 [notice] 92172#92172: using the "epoll" event method
+2021/12/13 09:42:01 [notice] 92172#92172: nginx/1.21.4
+2021/12/13 09:42:01 [notice] 92172#92172: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:01 [notice] 92172#92172: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:01 [notice] 92172#92172: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:01 [notice] 92173#92173: start worker processes
+2021/12/13 09:42:01 [notice] 92173#92173: start worker process 92175
+2021/12/13 09:42:01 [notice] 92173#92173: start worker process 92176
+2021/12/13 09:42:03 [notice] 92207#92207: using the "epoll" event method
+2021/12/13 09:42:03 [notice] 92207#92207: nginx/1.21.4
+2021/12/13 09:42:03 [notice] 92207#92207: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:03 [notice] 92207#92207: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:03 [notice] 92207#92207: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:03 [notice] 92208#92208: start worker processes
+2021/12/13 09:42:03 [notice] 92208#92208: start worker process 92210
+2021/12/13 09:42:03 [notice] 92208#92208: start worker process 92211
+2021/12/13 09:42:04 [notice] 92237#92237: using the "epoll" event method
+2021/12/13 09:42:04 [notice] 92237#92237: nginx/1.21.4
+2021/12/13 09:42:04 [notice] 92237#92237: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:04 [notice] 92237#92237: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:04 [notice] 92237#92237: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:04 [notice] 92238#92238: start worker processes
+2021/12/13 09:42:04 [notice] 92238#92238: start worker process 92240
+2021/12/13 09:42:04 [notice] 92238#92238: start worker process 92241
+2021/12/13 09:42:05 [notice] 92272#92272: using the "epoll" event method
+2021/12/13 09:42:05 [notice] 92272#92272: nginx/1.21.4
+2021/12/13 09:42:05 [notice] 92272#92272: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:05 [notice] 92272#92272: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:05 [notice] 92272#92272: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:05 [notice] 92273#92273: start worker processes
+2021/12/13 09:42:05 [notice] 92273#92273: start worker process 92275
+2021/12/13 09:42:05 [notice] 92273#92273: start worker process 92276
+2021/12/13 09:42:06 [notice] 92302#92302: using the "epoll" event method
+2021/12/13 09:42:06 [notice] 92302#92302: nginx/1.21.4
+2021/12/13 09:42:06 [notice] 92302#92302: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:06 [notice] 92302#92302: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:06 [notice] 92302#92302: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:06 [notice] 92303#92303: start worker processes
+2021/12/13 09:42:06 [notice] 92303#92303: start worker process 92305
+2021/12/13 09:42:06 [notice] 92303#92303: start worker process 92306
+2021/12/13 09:42:07 [notice] 92337#92337: using the "epoll" event method
+2021/12/13 09:42:07 [notice] 92337#92337: nginx/1.21.4
+2021/12/13 09:42:07 [notice] 92337#92337: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:07 [notice] 92337#92337: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:07 [notice] 92337#92337: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:07 [notice] 92338#92338: start worker processes
+2021/12/13 09:42:07 [notice] 92338#92338: start worker process 92340
+2021/12/13 09:42:07 [notice] 92338#92338: start worker process 92341
+2021/12/13 09:42:09 [notice] 92367#92367: using the "epoll" event method
+2021/12/13 09:42:09 [notice] 92367#92367: nginx/1.21.4
+2021/12/13 09:42:09 [notice] 92367#92367: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:09 [notice] 92367#92367: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:09 [notice] 92367#92367: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:09 [notice] 92368#92368: start worker processes
+2021/12/13 09:42:09 [notice] 92368#92368: start worker process 92370
+2021/12/13 09:42:09 [notice] 92368#92368: start worker process 92371
+2021/12/13 09:42:10 [notice] 92402#92402: using the "epoll" event method
+2021/12/13 09:42:10 [notice] 92402#92402: nginx/1.21.4
+2021/12/13 09:42:10 [notice] 92402#92402: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:10 [notice] 92402#92402: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:10 [notice] 92402#92402: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:10 [notice] 92403#92403: start worker processes
+2021/12/13 09:42:10 [notice] 92403#92403: start worker process 92405
+2021/12/13 09:42:10 [notice] 92403#92403: start worker process 92406
+2021/12/13 09:42:11 [notice] 92437#92437: using the "epoll" event method
+2021/12/13 09:42:11 [notice] 92437#92437: nginx/1.21.4
+2021/12/13 09:42:11 [notice] 92437#92437: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:11 [notice] 92437#92437: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:11 [notice] 92437#92437: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:11 [notice] 92438#92438: start worker processes
+2021/12/13 09:42:11 [notice] 92438#92438: start worker process 92440
+2021/12/13 09:42:11 [notice] 92438#92438: start worker process 92441
+2021/12/13 09:42:12 [notice] 92467#92467: using the "epoll" event method
+2021/12/13 09:42:12 [notice] 92467#92467: nginx/1.21.4
+2021/12/13 09:42:12 [notice] 92467#92467: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:12 [notice] 92467#92467: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:12 [notice] 92467#92467: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:12 [notice] 92468#92468: start worker processes
+2021/12/13 09:42:12 [notice] 92468#92468: start worker process 92470
+2021/12/13 09:42:12 [notice] 92468#92468: start worker process 92471
+2021/12/13 09:42:13 [notice] 92502#92502: using the "epoll" event method
+2021/12/13 09:42:13 [notice] 92502#92502: nginx/1.21.4
+2021/12/13 09:42:13 [notice] 92502#92502: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:13 [notice] 92502#92502: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:13 [notice] 92502#92502: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:13 [notice] 92503#92503: start worker processes
+2021/12/13 09:42:13 [notice] 92503#92503: start worker process 92505
+2021/12/13 09:42:13 [notice] 92503#92503: start worker process 92506
+2021/12/13 09:42:15 [notice] 92532#92532: using the "epoll" event method
+2021/12/13 09:42:15 [notice] 92532#92532: nginx/1.21.4
+2021/12/13 09:42:15 [notice] 92532#92532: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:15 [notice] 92532#92532: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:15 [notice] 92532#92532: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:15 [notice] 92533#92533: start worker processes
+2021/12/13 09:42:15 [notice] 92533#92533: start worker process 92535
+2021/12/13 09:42:15 [notice] 92533#92533: start worker process 92536
+2021/12/13 09:42:16 [notice] 92567#92567: using the "epoll" event method
+2021/12/13 09:42:16 [notice] 92567#92567: nginx/1.21.4
+2021/12/13 09:42:16 [notice] 92567#92567: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:16 [notice] 92567#92567: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:16 [notice] 92567#92567: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:16 [notice] 92568#92568: start worker processes
+2021/12/13 09:42:16 [notice] 92568#92568: start worker process 92570
+2021/12/13 09:42:16 [notice] 92568#92568: start worker process 92571
+2021/12/13 09:42:17 [notice] 92602#92602: using the "epoll" event method
+2021/12/13 09:42:17 [notice] 92602#92602: nginx/1.21.4
+2021/12/13 09:42:17 [notice] 92602#92602: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:17 [notice] 92602#92602: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:17 [notice] 92602#92602: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:17 [notice] 92603#92603: start worker processes
+2021/12/13 09:42:17 [notice] 92603#92603: start worker process 92605
+2021/12/13 09:42:17 [notice] 92603#92603: start worker process 92606
+2021/12/13 09:42:18 [emerg] 92637#92637: getpwnam("nginx") failed (2: No such file or directory) in /etc/nginx/nginx.conf:2
+2021/12/13 09:42:21 [notice] 92682#92682: using the "epoll" event method
+2021/12/13 09:42:21 [notice] 92682#92682: nginx/1.21.4
+2021/12/13 09:42:21 [notice] 92682#92682: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:21 [notice] 92682#92682: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:21 [notice] 92682#92682: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:21 [notice] 92683#92683: start worker processes
+2021/12/13 09:42:21 [notice] 92683#92683: start worker process 92685
+2021/12/13 09:42:21 [notice] 92683#92683: start worker process 92686
+2021/12/13 09:42:23 [notice] 92712#92712: using the "epoll" event method
+2021/12/13 09:42:23 [notice] 92712#92712: nginx/1.21.4
+2021/12/13 09:42:23 [notice] 92712#92712: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:23 [notice] 92712#92712: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:23 [notice] 92712#92712: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:23 [notice] 92713#92713: start worker processes
+2021/12/13 09:42:23 [notice] 92713#92713: start worker process 92715
+2021/12/13 09:42:23 [notice] 92713#92713: start worker process 92716
+2021/12/13 09:42:24 [notice] 92747#92747: using the "epoll" event method
+2021/12/13 09:42:24 [notice] 92747#92747: nginx/1.21.4
+2021/12/13 09:42:24 [notice] 92747#92747: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:24 [notice] 92747#92747: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:24 [notice] 92747#92747: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:24 [notice] 92748#92748: start worker processes
+2021/12/13 09:42:24 [notice] 92748#92748: start worker process 92750
+2021/12/13 09:42:24 [notice] 92748#92748: start worker process 92751
+2021/12/13 09:42:25 [notice] 92777#92777: using the "epoll" event method
+2021/12/13 09:42:25 [notice] 92777#92777: nginx/1.21.4
+2021/12/13 09:42:25 [notice] 92777#92777: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:25 [notice] 92777#92777: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:25 [notice] 92777#92777: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:25 [notice] 92778#92778: start worker processes
+2021/12/13 09:42:25 [notice] 92778#92778: start worker process 92780
+2021/12/13 09:42:25 [notice] 92778#92778: start worker process 92781
+2021/12/13 09:42:26 [notice] 92812#92812: using the "epoll" event method
+2021/12/13 09:42:26 [notice] 92812#92812: nginx/1.21.4
+2021/12/13 09:42:26 [notice] 92812#92812: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:26 [notice] 92812#92812: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:26 [notice] 92812#92812: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:26 [notice] 92813#92813: start worker processes
+2021/12/13 09:42:26 [notice] 92813#92813: start worker process 92815
+2021/12/13 09:42:26 [notice] 92813#92813: start worker process 92816
+2021/12/13 09:42:27 [notice] 92842#92842: using the "epoll" event method
+2021/12/13 09:42:27 [notice] 92842#92842: nginx/1.21.4
+2021/12/13 09:42:27 [notice] 92842#92842: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:27 [notice] 92842#92842: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:27 [notice] 92842#92842: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:27 [notice] 92843#92843: start worker processes
+2021/12/13 09:42:27 [notice] 92843#92843: start worker process 92845
+2021/12/13 09:42:27 [notice] 92843#92843: start worker process 92846
+2021/12/13 09:42:28 [notice] 92872#92872: using the "epoll" event method
+2021/12/13 09:42:28 [notice] 92872#92872: nginx/1.21.4
+2021/12/13 09:42:28 [notice] 92872#92872: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:28 [notice] 92872#92872: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:28 [notice] 92872#92872: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:28 [notice] 92873#92873: start worker processes
+2021/12/13 09:42:28 [notice] 92873#92873: start worker process 92875
+2021/12/13 09:42:28 [notice] 92873#92873: start worker process 92876
+2021/12/13 09:42:30 [notice] 92907#92907: using the "epoll" event method
+2021/12/13 09:42:30 [notice] 92907#92907: nginx/1.21.4
+2021/12/13 09:42:30 [notice] 92907#92907: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:30 [notice] 92907#92907: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:30 [notice] 92907#92907: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:30 [notice] 92908#92908: start worker processes
+2021/12/13 09:42:30 [notice] 92908#92908: start worker process 92910
+2021/12/13 09:42:30 [notice] 92908#92908: start worker process 92911
+2021/12/13 09:42:31 [notice] 92937#92937: using the "epoll" event method
+2021/12/13 09:42:31 [notice] 92937#92937: nginx/1.21.4
+2021/12/13 09:42:31 [notice] 92937#92937: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:31 [notice] 92937#92937: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:31 [notice] 92937#92937: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:31 [notice] 92938#92938: start worker processes
+2021/12/13 09:42:31 [notice] 92938#92938: start worker process 92940
+2021/12/13 09:42:31 [notice] 92938#92938: start worker process 92941
+2021/12/13 09:42:32 [notice] 92972#92972: using the "epoll" event method
+2021/12/13 09:42:32 [notice] 92972#92972: nginx/1.21.4
+2021/12/13 09:42:32 [notice] 92972#92972: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:32 [notice] 92972#92972: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:32 [notice] 92972#92972: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:32 [notice] 92973#92973: start worker processes
+2021/12/13 09:42:32 [notice] 92973#92973: start worker process 92975
+2021/12/13 09:42:32 [notice] 92973#92973: start worker process 92976
+2021/12/13 09:42:33 [notice] 93002#93002: using the "epoll" event method
+2021/12/13 09:42:33 [notice] 93002#93002: nginx/1.21.4
+2021/12/13 09:42:33 [notice] 93002#93002: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:33 [notice] 93002#93002: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:33 [notice] 93002#93002: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:33 [notice] 93003#93003: start worker processes
+2021/12/13 09:42:33 [notice] 93003#93003: start worker process 93005
+2021/12/13 09:42:33 [notice] 93003#93003: start worker process 93006
+2021/12/13 09:42:34 [notice] 93032#93032: using the "epoll" event method
+2021/12/13 09:42:34 [notice] 93032#93032: nginx/1.21.4
+2021/12/13 09:42:34 [notice] 93032#93032: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:34 [notice] 93032#93032: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:34 [notice] 93032#93032: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:34 [notice] 93033#93033: start worker processes
+2021/12/13 09:42:34 [notice] 93033#93033: start worker process 93035
+2021/12/13 09:42:34 [notice] 93033#93033: start worker process 93036
+2021/12/13 09:42:36 [notice] 93067#93067: using the "epoll" event method
+2021/12/13 09:42:36 [notice] 93067#93067: nginx/1.21.4
+2021/12/13 09:42:36 [notice] 93067#93067: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:36 [notice] 93067#93067: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:36 [notice] 93067#93067: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:36 [notice] 93068#93068: start worker processes
+2021/12/13 09:42:36 [notice] 93068#93068: start worker process 93070
+2021/12/13 09:42:36 [notice] 93068#93068: start worker process 93071
+2021/12/13 09:42:37 [notice] 93097#93097: using the "epoll" event method
+2021/12/13 09:42:37 [notice] 93097#93097: nginx/1.21.4
+2021/12/13 09:42:37 [notice] 93097#93097: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:37 [notice] 93097#93097: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:37 [notice] 93097#93097: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:37 [notice] 93098#93098: start worker processes
+2021/12/13 09:42:37 [notice] 93098#93098: start worker process 93100
+2021/12/13 09:42:37 [notice] 93098#93098: start worker process 93101
+2021/12/13 09:42:38 [notice] 93132#93132: using the "epoll" event method
+2021/12/13 09:42:38 [notice] 93132#93132: nginx/1.21.4
+2021/12/13 09:42:38 [notice] 93132#93132: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:38 [notice] 93132#93132: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:38 [notice] 93132#93132: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:38 [notice] 93133#93133: start worker processes
+2021/12/13 09:42:38 [notice] 93133#93133: start worker process 93135
+2021/12/13 09:42:38 [notice] 93133#93133: start worker process 93136
+2021/12/13 09:42:39 [notice] 93167#93167: using the "epoll" event method
+2021/12/13 09:42:39 [notice] 93167#93167: nginx/1.21.4
+2021/12/13 09:42:39 [notice] 93167#93167: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:39 [notice] 93167#93167: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:39 [notice] 93167#93167: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:39 [notice] 93168#93168: start worker processes
+2021/12/13 09:42:39 [notice] 93168#93168: start worker process 93170
+2021/12/13 09:42:39 [notice] 93168#93168: start worker process 93171
+2021/12/13 09:42:40 [notice] 93197#93197: using the "epoll" event method
+2021/12/13 09:42:40 [notice] 93197#93197: nginx/1.21.4
+2021/12/13 09:42:40 [notice] 93197#93197: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:40 [notice] 93197#93197: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:40 [notice] 93197#93197: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:40 [notice] 93198#93198: start worker processes
+2021/12/13 09:42:40 [notice] 93198#93198: start worker process 93200
+2021/12/13 09:42:40 [notice] 93198#93198: start worker process 93201
+2021/12/13 09:42:42 [notice] 93232#93232: using the "epoll" event method
+2021/12/13 09:42:42 [notice] 93232#93232: nginx/1.21.4
+2021/12/13 09:42:42 [notice] 93232#93232: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:42 [notice] 93232#93232: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:42 [notice] 93232#93232: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:42 [notice] 93233#93233: start worker processes
+2021/12/13 09:42:42 [notice] 93233#93233: start worker process 93235
+2021/12/13 09:42:42 [notice] 93233#93233: start worker process 93236
+2021/12/13 09:42:43 [notice] 93264#93264: using the "epoll" event method
+2021/12/13 09:42:43 [notice] 93264#93264: nginx/1.21.4
+2021/12/13 09:42:43 [notice] 93264#93264: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:43 [notice] 93264#93264: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:43 [notice] 93264#93264: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:43 [notice] 93265#93265: start worker processes
+2021/12/13 09:42:43 [notice] 93265#93265: start worker process 93267
+2021/12/13 09:42:43 [notice] 93265#93265: start worker process 93268
+2021/12/13 09:42:44 [notice] 93299#93299: using the "epoll" event method
+2021/12/13 09:42:44 [notice] 93299#93299: nginx/1.21.4
+2021/12/13 09:42:44 [notice] 93299#93299: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:44 [notice] 93299#93299: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:44 [notice] 93299#93299: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:44 [notice] 93300#93300: start worker processes
+2021/12/13 09:42:44 [notice] 93300#93300: start worker process 93302
+2021/12/13 09:42:44 [notice] 93300#93300: start worker process 93303
+2021/12/13 09:42:45 [notice] 93329#93329: using the "epoll" event method
+2021/12/13 09:42:45 [notice] 93329#93329: nginx/1.21.4
+2021/12/13 09:42:45 [notice] 93329#93329: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:45 [notice] 93329#93329: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:45 [notice] 93329#93329: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:45 [notice] 93330#93330: start worker processes
+2021/12/13 09:42:45 [notice] 93330#93330: start worker process 93332
+2021/12/13 09:42:45 [notice] 93330#93330: start worker process 93333
+2021/12/13 09:42:46 [notice] 93364#93364: using the "epoll" event method
+2021/12/13 09:42:46 [notice] 93364#93364: nginx/1.21.4
+2021/12/13 09:42:46 [notice] 93364#93364: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:46 [notice] 93364#93364: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:46 [notice] 93364#93364: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:46 [notice] 93365#93365: start worker processes
+2021/12/13 09:42:46 [notice] 93365#93365: start worker process 93367
+2021/12/13 09:42:46 [notice] 93365#93365: start worker process 93368
+2021/12/13 09:42:48 [notice] 93394#93394: using the "epoll" event method
+2021/12/13 09:42:48 [notice] 93394#93394: nginx/1.21.4
+2021/12/13 09:42:48 [notice] 93394#93394: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:48 [notice] 93394#93394: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:48 [notice] 93394#93394: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:48 [notice] 93395#93395: start worker processes
+2021/12/13 09:42:48 [notice] 93395#93395: start worker process 93397
+2021/12/13 09:42:48 [notice] 93395#93395: start worker process 93398
+2021/12/13 09:42:49 [notice] 93429#93429: using the "epoll" event method
+2021/12/13 09:42:49 [notice] 93429#93429: nginx/1.21.4
+2021/12/13 09:42:49 [notice] 93429#93429: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:49 [notice] 93429#93429: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:49 [notice] 93429#93429: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:49 [notice] 93430#93430: start worker processes
+2021/12/13 09:42:49 [notice] 93430#93430: start worker process 93432
+2021/12/13 09:42:49 [notice] 93430#93430: start worker process 93433
+2021/12/13 09:42:50 [notice] 93464#93464: using the "epoll" event method
+2021/12/13 09:42:50 [notice] 93464#93464: nginx/1.21.4
+2021/12/13 09:42:50 [notice] 93464#93464: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:42:50 [notice] 93464#93464: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:42:50 [notice] 93464#93464: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:42:50 [notice] 93465#93465: start worker processes
+2021/12/13 09:42:50 [notice] 93465#93465: start worker process 93467
+2021/12/13 09:42:50 [notice] 93465#93465: start worker process 93468
+2021/12/13 09:59:52 [notice] 93503#93503: using the "epoll" event method
+2021/12/13 09:59:52 [notice] 93503#93503: nginx/1.21.4
+2021/12/13 09:59:52 [notice] 93503#93503: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 09:59:52 [notice] 93503#93503: OS: Linux 5.10.0-8-amd64
+2021/12/13 09:59:52 [notice] 93503#93503: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 09:59:52 [notice] 93504#93504: start worker processes
+2021/12/13 09:59:52 [notice] 93504#93504: start worker process 93505
+2021/12/13 09:59:52 [notice] 93504#93504: start worker process 93506
+2021/12/13 09:59:56 [notice] 93504#93504: signal 15 (SIGTERM) received from 93509, exiting
+2021/12/13 09:59:56 [notice] 93505#93505: exiting
+2021/12/13 09:59:56 [notice] 93505#93505: exit
+2021/12/13 09:59:56 [notice] 93506#93506: exiting
+2021/12/13 09:59:56 [notice] 93506#93506: exit
+2021/12/13 09:59:56 [notice] 93504#93504: signal 17 (SIGCHLD) received from 93505
+2021/12/13 09:59:56 [notice] 93504#93504: worker process 93505 exited with code 0
+2021/12/13 09:59:56 [notice] 93504#93504: worker process 93506 exited with code 0
+2021/12/13 09:59:56 [notice] 93504#93504: exit
+2021/12/13 10:00:29 [notice] 93530#93530: using the "epoll" event method
+2021/12/13 10:00:29 [notice] 93530#93530: nginx/1.21.4
+2021/12/13 10:00:29 [notice] 93530#93530: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 10:00:29 [notice] 93530#93530: OS: Linux 5.10.0-8-amd64
+2021/12/13 10:00:29 [notice] 93530#93530: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 10:00:29 [notice] 93531#93531: start worker processes
+2021/12/13 10:00:29 [notice] 93531#93531: start worker process 93534
+2021/12/13 10:00:29 [notice] 93531#93531: start worker process 93535
+2021/12/13 10:00:53 [notice] 93531#93531: signal 15 (SIGTERM) received from 93547, exiting
+2021/12/13 10:00:53 [notice] 93534#93534: exiting
+2021/12/13 10:00:53 [notice] 93534#93534: exit
+2021/12/13 10:00:53 [notice] 93535#93535: exiting
+2021/12/13 10:00:53 [notice] 93535#93535: exit
+2021/12/13 10:00:53 [notice] 93531#93531: signal 17 (SIGCHLD) received from 93534
+2021/12/13 10:00:53 [notice] 93531#93531: worker process 93534 exited with code 0
+2021/12/13 10:00:53 [notice] 93531#93531: worker process 93535 exited with code 0
+2021/12/13 10:00:53 [notice] 93531#93531: exit
+2021/12/13 10:01:50 [notice] 93568#93568: using the "epoll" event method
+2021/12/13 10:01:50 [notice] 93568#93568: nginx/1.21.4
+2021/12/13 10:01:50 [notice] 93568#93568: built by gcc 10.2.1 20210110 (Debian 10.2.1-6) 
+2021/12/13 10:01:50 [notice] 93568#93568: OS: Linux 5.10.0-8-amd64
+2021/12/13 10:01:50 [notice] 93568#93568: getrlimit(RLIMIT_NOFILE): 1024:1048576
+2021/12/13 10:01:50 [notice] 93569#93569: start worker processes
+2021/12/13 10:01:50 [notice] 93569#93569: start worker process 93572
+2021/12/13 10:01:50 [notice] 93569#93569: start worker process 93573
+2021/12/13 10:02:01 [notice] 93569#93569: signal 15 (SIGTERM) received from 93581, exiting
+2021/12/13 10:02:01 [notice] 93572#93572: exiting
+2021/12/13 10:02:01 [notice] 93572#93572: exit
+2021/12/13 10:02:01 [notice] 93573#93573: exiting
+2021/12/13 10:02:01 [notice] 93573#93573: exit
+2021/12/13 10:02:01 [notice] 93569#93569: signal 17 (SIGCHLD) received from 93572
+2021/12/13 10:02:01 [notice] 93569#93569: worker process 93572 exited with code 0
+2021/12/13 10:02:01 [notice] 93569#93569: worker process 93573 exited with code 0
+2021/12/13 10:02:01 [notice] 93569#93569: exit

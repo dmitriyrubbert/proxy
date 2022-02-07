@@ -1,0 +1,5 @@
+__upstream__
+server {
+    listen __port__;
+    __location__
+}
