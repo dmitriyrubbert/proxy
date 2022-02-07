@@ -1,9 +1,11 @@
 #!/bin/bash
 
+servece_port=1234
+
 cd /opt/proxy
 
 # get params
-port=$(cat params.conf | jq  -r '.port' | echo ${1:-6182})
+port=$(cat params.conf | jq  -r '.port' | echo ${1:-8080})
 servers=$(cat params.conf | jq  -r '.servers[]')
 
 fail_timeout=$(cat params.conf | jq -r .fail_timeout | echo ${1:-1s})
@@ -18,7 +20,7 @@ locationtpl="\n\tproxy_connect_timeout $proxy_connect_timeout;\n\tproxy_send_tim
 
 # make servers list
 for host in $servers; do
-    srv+="  server $host:6181 $proxytreamtpl"
+    srv+="  server $host:$servece_port $proxytreamtpl"
 done
 
 # make upstream list
